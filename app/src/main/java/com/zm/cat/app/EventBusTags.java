@@ -28,5 +28,5 @@ package com.zm.cat.app;
  * ================================================
  */
 public interface EventBusTags {
-
+    String test="";
 }
